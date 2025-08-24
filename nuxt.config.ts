@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     ssr: false,
     app: {
         // Use the repository name as the base path on GitHub Pages
-        baseURL: '/homagine/homagine/',
+        baseURL: '/homagine/',
         head: {
             title: 'Homagine',
             meta: [{name: 'Homagine, a place to pay tribute', content: 'A site honoring human history'}],
