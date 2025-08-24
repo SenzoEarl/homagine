@@ -1,0 +1,20 @@
+type Category {
+    title: String
+    description: String
+    slug: String
+}
+
+type Tribute {
+    slug: String
+    overview: String
+    images: [String]
+    tribute: String
+    category: String
+}
+
+type Query {
+    categories: [Category]
+    tributes: [Tribute]
+    tributesByCategory(slug: String!): [Tribute]
+    tribute(slug: String!): Tribute
+}

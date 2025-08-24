@@ -1,0 +1,189 @@
+{
+  "categories": [
+    {
+      "title": "Legends of Music",
+      "description": "A tribute to musical icons who changed the world.",
+      "slug": "legends-of-music"
+    },
+    {
+      "title": "Historical Figures",
+      "description": "Honoring those who made a mark on history.",
+      "slug": "historical-figures"
+    },
+    {
+      "title": "Places",
+      "description": "The beauty of nature and the wonders of the world.",
+      "slug": "places"
+    },
+    {
+      "title": "Things",
+      "description": "Paying tribute to the finer things in life.",
+      "slug": "things"
+    }
+  ],
+  "tributes": [
+    {
+      "slug": "freddie-mercury",
+      "duration": "1946 - 1991",
+      "overview": "Freddie Mercury was the charismatic frontman of Queen, celebrated for his powerful vocals, theatrical stage presence, and timeless influence on rock music.",
+      "images": [
+        {
+          "type": "image",
+          "src": "/media/people/mecury/freddie-1.avif",
+          "alt": "Freddie Mercury performing with Queen in 1975.",
+          "loaded": "false"
+        },
+        {
+          "type": "image",
+          "src": "/media/people/mecury/freddie-2.avif",
+          "alt": "Freddie Mercury performing with Queen at Wembley for Live Aid in 1985.",
+          "loaded": "false"
+        },
+        {
+          "type": "image",
+          "src": "/media/people/mecury/freddie-3.avif",
+          "alt": "Freddie Mercury in Oakland in 1982",
+          "loaded": "false"
+        }
+      ],
+      "tribute": "Freddie Mercury is considered one of the most iconic and electrifying frontmen in rock history. As the lead singer of Queen, he brought a theatrical flair and vocal brilliance that set the band apart. His four-octave vocal range and ability to shift between genres—rock, opera, pop, and beyond—made him a musical chameleon and a vocal powerhouse.\n\nFreddie’s stage presence is legendary. Whether strutting in a leotard, leading a stadium chant at Live Aid, or playing the piano in “Bohemian Rhapsody,” he had a magnetic ability to connect with audiences. Fans loved his unapologetic individuality—he was flamboyant, confident, and utterly unique, inspiring generations to embrace their true selves.\n\nEven decades after his passing, Freddie Mercury’s influence endures. His songs with Queen are timeless anthems, from “We Will Rock You” to “Don’t Stop Me Now.” His life story, including his openness about his sexuality and his struggle with AIDS, made him a symbol of both freedom and tragedy. People love him not only for his music, but for the courage, creativity, and humanity he represented.",
+      "category": "legends-of-music"
+    },
+    {
+      "slug": "nelson-mandela",
+      "duration": "1918 – 2013",
+      "overview": "Nelson Mandela was South Africa’s first Black president, a global icon of freedom and reconciliation who helped end apartheid through his leadership and activism.",
+      "images": [
+        {
+          "type": "image",
+          "src": "/media/people/mandela/mandela-1.webp",
+          "alt": "Nelson Mandela voting, 1994. Photo: Getty Images, Peter Turnley",
+          "loaded": "false"
+        },
+        {
+          "type": "image",
+          "src": "/media/people/mandela/mandela-2.jpg",
+          "alt": "Nelson Mandela raises his fist while addressing a crowd in Tokoza, during his tour of townships, Sept. 5, 1990",
+          "loaded": "false"
+        },
+        {
+          "type": "image",
+          "src": "/media/people/mandela/mandela-3.jpg",
+          "alt": "Nelson Mandela in New York (1990)",
+          "loaded": "false"
+        },
+        {
+          "type": "image",
+          "src": "/media/people/mandela/mandela-4.webp",
+          "alt": "Nelson Mandela Day: Art as a Catalyst for Change",
+          "loaded": "false"
+        }
+      ],
+      "tribute": "Nelson Mandela is one of the most admired leaders in modern history. As a key figure in the fight against apartheid in South Africa, he spent 27 years in prison for his beliefs and later became the country’s first Black president. His leadership brought about a peaceful transition from racial segregation to democracy, making him a global symbol of justice, courage, and forgiveness.\n\nWhat makes Mandela truly great is his moral strength. After decades of suffering, he emerged from prison not seeking revenge, but reconciliation. He emphasized unity, forgiveness, and nation-building, creating policies that encouraged healing rather than division. His approach inspired the world and demonstrated the power of dignity over hatred.\n\nPeople love Nelson Mandela not only for what he accomplished, but for how he did it. His humility, wisdom, and unwavering belief in human rights touched millions. His legacy lives on in South Africa’s constitution, in education and human rights efforts around the world, and in the hearts of people who believe in freedom and equality. Mandela showed that true leadership means serving others—and that’s why he remains an enduring figure of hope.",
+      "category": "historical-figures"
+    },
+    {
+      "slug": "it's-always-sunny-in-philadelphia",
+      "duration": "2005 - Current",
+      "overview": "It’s Always Sunny in Philadelphia is a dark comedy series about a group of morally questionable friends running a bar, infamous for its edgy humor and cult following.",
+      "images": [
+        {
+          "type": "image",
+          "src": "/media/things/iasip/iasip-1.jpg",
+          "alt": "\"The Gang Gets Held Hostage\" (Season 3, Episode 4)",
+          "loaded": "false"
+        },
+        {
+          "type": "image",
+          "src": "/media/things/iasip/iasip-2.jpg",
+          "alt": "\"The Nightman Cometh\" (Season 4, Episode 13) ",
+          "loaded": "false"
+        },
+        {
+          "type": "image",
+          "src": "/media/things/iasip/iasip-3.jpg",
+          "alt": "\"The D.E.N.N.I.S. System\" (Season 5, Episode 10) ",
+          "loaded": "false"
+        }
+      ],
+      "tribute": "It’s Always Sunny in Philadelphia is one of the longest-running live-action sitcoms in American TV history—and one of the most unconventional. The show follows “The Gang,” a group of morally bankrupt friends who run a failing bar and constantly get into ridiculous, often offensive, and absurd schemes. It has become a cult classic because of its fearless comedy and unique approach to satire.\n\nWhat makes the show great is its commitment to pushing boundaries. Unlike most sitcoms, the characters don’t grow or become better people—they actually get worse. Yet, this is part of the genius. The show uses dark humor to highlight selfishness, ignorance, and dysfunction in a way that’s both outrageous and insightful. It’s a sharp social commentary wrapped in hilarious chaos.\n\nFans love Sunny because it’s bold, self-aware, and endlessly quotable. The chemistry between the cast—Charlie Day, Rob McElhenney, Glenn Howerton, Kaitlin Olson, and Danny DeVito—is electric, and their willingness to look ridiculous keeps the comedy fresh. It’s a show for people who enjoy laughing at how not to behave, and in doing so, it has built one of the most loyal fanbases in TV history.",
+      "category": "things"
+    },
+    {
+      "slug": "yuno-miles",
+      "duration": "2021 - Current",
+      "overview": "Yuno Miles is an internet rapper and comedic personality, recognized for his surreal, exaggerated rap style and viral videos.",
+      "images": [
+        {
+          "type": "image",
+          "src": "/media/people/yuno-miles/yuno-miles-1.jpg",
+          "alt": "Yuno Miles in Hong Kong",
+          "loaded": "false"
+        },
+        {
+          "type": "image",
+          "src": "/media/people/yuno-miles/yuno-miles-2.jpg",
+          "alt": "Yuno Miles getting his bread",
+          "loaded": "false"
+        }
+      ],
+      "tribute": "Yuno Miles is an internet sensation and comedic rapper whose style blends satire, absurdity, and creativity in a way that resonates with meme culture. He intentionally raps “off-beat” or with exaggerated ad-libs, poking fun at modern rap trends while also contributing to them. His music videos and lyrics are bizarre, funny, and unpredictable—exactly what his fans love about him.\n\nWhat makes Yuno Miles great is his ability to turn parody into an art form. He’s in on the joke, and his fans are too. His content thrives on randomness, irony, and exaggeration, which reflects the humor style of Gen Z and younger audiences. It’s entertainment that doesn’t take itself seriously, but still shows a surprising level of creativity and originality.\n\nFans love Yuno Miles because he brings joy through chaos. Whether he’s wearing a horse mask while rapping, using sound effects in place of words, or creating surreal album covers, he’s constantly reinventing how people view comedy and music. He’s proof that being weird, different, and funny can be a form of genius in the internet age.",
+      "category": "legends-of-music"
+    },
+    {
+      "slug": "nelspruit",
+      "duration": "1905",
+      "overview": "Nelspruit (now officially Mbombela) is a vibrant city in South Africa’s Mpumalanga province, known as the gateway to Kruger National Park and surrounded by scenic landscapes.",
+      "images": [
+        {
+          "type": "image",
+          "src": "/media/places/nelspruit/absa-square.jpg",
+          "alt": "ABSA Square",
+          "loaded": "false"
+        },
+        {
+          "type": "image",
+          "src": "/media/places/nelspruit/mbombela-cbd.jpg",
+          "alt": "Mbombela Central Business District",
+          "loaded": "false"
+        },
+        {
+          "type": "image",
+          "src": "/media/places/nelspruit/mbombela-stadium.jpg",
+          "alt": "Mbombela Stadium",
+          "loaded": "false"
+        }
+      ],
+      "tribute": "Nelspruit, officially known as Mbombela, is a gem of South Africa’s Mpumalanga province. It’s beloved for its lush landscapes, subtropical climate, and its role as the gateway to the world-famous Kruger National Park. Nestled in the Lowveld, it’s surrounded by mountains, waterfalls, and citrus farms, offering a perfect blend of nature and small-city charm.\n\nWhat makes Nelspruit special is its relaxed pace of life and strong connection to the outdoors. Residents and visitors enjoy botanical gardens, hiking trails, and wildlife experiences within minutes of the city. The nearby Panorama Route—featuring Blyde River Canyon and God’s Window—is among the most breathtaking in the country, making it a favorite for nature lovers and photographers.\n\nBeyond its natural beauty, Nelspruit is a cultural and economic hub for the region. It’s a place where modern infrastructure meets traditional heritage, with markets, schools, and a growing tourism industry. People love it for its warmth—both in climate and in community—and its balance between adventure and peaceful living. It’s a place that feels like home while offering access to some of Africa’s greatest wonders.",
+      "category": "places"
+    },
+    {
+      "slug": "lebron-james",
+      "duration": "1984",
+      "overview": "LeBron James is a legendary NBA player, widely regarded as one of the greatest basketball players of all time, known for his dominance, versatility, and philanthropy.",
+      "images": [
+        {
+          "type": "image",
+          "src": "/media/people/lebron/lebron-1.jpg",
+          "alt": "LeBron James Celebrates After Breaking the All-Time Scoring Record",
+          "loaded": "false"
+        },
+        {
+          "type": "image",
+          "src": "/media/people/lebron/lebron-2.jpg",
+          "alt": "A goat and a bunny in Space Jam 2",
+          "loaded": "false"
+        },
+        {
+          "type": "image",
+          "src": "/media/people/lebron/lebron-3.webp",
+          "alt": "James at his announcement in Miami with Dwayne Wade and Chris Bosh.",
+          "loaded": "false"
+        }
+      ],
+      "tribute": "LeBron James is widely regarded as one of the greatest basketball players in the history of the sport because of his unmatched combination of size, skill, athleticism, and intelligence on the court. Standing 6'9\" with the passing ability of a point guard and the strength of a power forward, he has redefined what it means to be a complete player. His career spans over two decades, during which he has consistently dominated the NBA, winning multiple championships, MVP awards, and Olympic gold medals.\n\nWhat makes LeBron especially beloved is his commitment to excellence and consistency. Fans admire how he maintains peak performance well into his late 30s, adapting his game and proving doubters wrong year after year. He’s known for clutch performances, high basketball IQ, and leadership on and off the court, making him a role model for younger athletes around the world.\n\nBeyond the game, LeBron’s legacy is cemented by his philanthropy and activism. He founded the I PROMISE School in his hometown of Akron, Ohio, providing education and support for at-risk youth. His voice on social issues, particularly racial justice, has earned him respect far beyond the basketball community. People love LeBron not just for his athletic greatness, but because he uses his platform to lift others.",
+      "category": "historical-figures"
+    }
+  ]
+}
+
