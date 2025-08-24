@@ -19,7 +19,7 @@ export default defineNuxtConfig({
     },
     nitro: {
         // Optimize output for GitHub Pages, generates 404.html and .nojekyll
-        preset: 'github-pages',
+        preset: 'static',
     },
     routeRules: {
         // prerender all routes for static hosting
