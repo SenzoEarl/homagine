@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import data from '~~/content/tribute.json'
-
+const config = useRuntimeConfig()
 
 const route = useRoute()
 const tribute = data.tributes.find(t => t.slug === route.params.slug)
@@ -22,7 +22,7 @@ const getRandomRotation = () =>
          class="flex flex-col md:flex-row md:justify-around items-center gap-4 mt-6"
          :class="['polaroid', getRandomRotation(), 'flex flex-col items-center']">
       <figure>
-        <img :src="image.src" :alt="image.alt" class="object-contain "/>
+        <img :src="config.app.baseURL + image.src" :alt="image.alt" class="object-contain "/>
         <figcaption class="caption lg:caption md:caption sm:caption">{{ image.alt }}</figcaption>
       </figure>
 
